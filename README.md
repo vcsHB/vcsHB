@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vcsHB
-- 👀 I’m interested in making my own games
-- 🌱 I’m currently learning C# and JAVA
+- vcs입니다
+- 취미가 코딩입니다
 
-<!---
-vcsHB/vcsHB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+제 머리에는
+js와 C말고는 별다른게 없습니다.
