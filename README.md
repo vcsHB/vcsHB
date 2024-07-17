@@ -27,22 +27,7 @@
 <img alt="rider" src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" height="100x" width="100px">
 
    *****
-## 사용 가능한 아트 툴
-<br/>
-<img alt="aseprite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/800px-Logo_Aseprite.svg.png" height="100x" width="100px">
-<img alt="ps" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" height="100x" width="100px">
-<img alt="ai" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" height="100x" width="100px">
-<img alt="blockbench" src="https://www.blockbench.net/images/logos/icon.png" height="100x" width="100px">
-<img alt="Blender" src="https://cdn.iconscout.com/icon/free/png-256/free-blender-3521310-2944729.png?f=webp&w=256" height="100x" width="100px">
-<br/><br/>
-   
-*****
-   
-## 이건 제 깃허브구요    
-   
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vcsHB&amp;show_icons=true&amp;theme=tokyonight">
-   
-<br/>   
+
    
 ## 이건 제 티스토리에요
 **한번씩 봐주셍요**
