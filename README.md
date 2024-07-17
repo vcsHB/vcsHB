@@ -5,11 +5,7 @@
    
 ## 다룰 줄 아는 개발언어들
 <br/>
-<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="110x" width="100px">
-<img alt="Cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="110x" width="100px">
-<img alt="Cs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="110x" width="100px">
-<img alt="js" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100x" width="100px">
-<img alt="ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" height="100x" width="100px">
+<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="110x" width="100px"><img alt="Cpp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="110x" width="100px"><img alt="Cs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="110x" width="100px"><img alt="js" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="100x" width="100px"><img alt="ts" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" height="100x" width="100px">
 
    *****   
    
